@@ -40,7 +40,7 @@ def get_filters():
         month = "all"
         day = "all"
 
-    #print('-'*40)
+    print('-'*40)
     return city, month, day
 
 def check_input(user_text):
