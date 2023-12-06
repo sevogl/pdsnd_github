@@ -10,7 +10,7 @@ Udacity GIT Projekt
 This project is for learning how to use git
 
 ### Files used
-Include the files used
+Data is in *csv files, program code is in bikeshare_2.py
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
