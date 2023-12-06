@@ -40,7 +40,7 @@ def get_filters():
         month = "all"
         day = "all"
 
-    #print('-'*40)
+    print('-'*40)
     return city, month, day
 
 def check_input(user_text):
@@ -58,7 +58,7 @@ def check_input(user_text):
             else:
                 print("Wrong input! Try again and ensure correct spelling!")
         except ValueError:
-            print("Input not correct!")
+            print("Your input is not correct!")
     return modified_user_text
 
 
