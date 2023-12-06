@@ -7,7 +7,7 @@ December 6, 2023
 Udacity GIT Projekt
 
 ### Description
-Describe what your project is about and what it does
+This project is for learning how to use git
 
 ### Files used
 Include the files used
